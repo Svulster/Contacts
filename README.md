@@ -1,6 +1,8 @@
 # Contacts
-Adress book
+A simple "adress book".
 
-Required packages:
-frontmatter
-PyQt5
+Working on an import/export function (to and from .md) to be used along with obsidian.
+
+## Required packages:
+frontmatter     pip install python-frontmatter
+PyQt5           pip install PyQt5
